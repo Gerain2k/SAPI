@@ -1,0 +1,14 @@
+{
+  "name": "sapi",
+  "version": "1.0.0",
+  "description": "API for sending sms",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Germans Gruseckis",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
